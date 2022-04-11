@@ -1,5 +1,3 @@
-
-
 using System.Collections.Generic;
 using eShop.CoreBusiness.Models;
 
